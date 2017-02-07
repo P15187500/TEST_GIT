@@ -4,5 +4,7 @@
 
 main()
 {
-	printf("Hello World");
+	printf("Hello World \n");
+	printf("Fare thee well \n");
+	printf("Quicker Version \n");
 }
